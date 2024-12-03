@@ -72,8 +72,6 @@ This project implements a comprehensive data pipeline using **Azure Data Lake Ge
 
 ## 📝 License
 
-This project is licensed under the MIT License. 🛡️
+This project is licensed under the Apache 2.0. 🛡️
 
 ---
-
-### 🎉 Happy Data Pipelining! 🚀
